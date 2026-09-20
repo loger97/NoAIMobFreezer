@@ -1,0 +1,16 @@
+execute if score blaze no_ai_sel matches 1 as @e[type=minecraft:blaze,name="No_AI",tag=!no_ai_frozen] run function no_ai:freeze
+execute if score creeper no_ai_sel matches 1 as @e[type=minecraft:creeper,name="No_AI",tag=!no_ai_frozen] run function no_ai:freeze
+execute if score enderman no_ai_sel matches 1 as @e[type=minecraft:enderman,name="No_AI",tag=!no_ai_frozen] run function no_ai:freeze
+execute if score ghast no_ai_sel matches 1 as @e[type=minecraft:ghast,name="No_AI",tag=!no_ai_frozen] run function no_ai:freeze
+execute if score skeleton no_ai_sel matches 1 as @e[type=minecraft:skeleton,name="No_AI",tag=!no_ai_frozen] run function no_ai:freeze
+execute if score spider no_ai_sel matches 1 as @e[type=minecraft:spider,name="No_AI",tag=!no_ai_frozen] run function no_ai:freeze
+execute if score witch no_ai_sel matches 1 as @e[type=minecraft:witch,name="No_AI",tag=!no_ai_frozen] run function no_ai:freeze
+execute if score zombie no_ai_sel matches 1 as @e[type=minecraft:zombie,name="No_AI",tag=!no_ai_frozen] run function no_ai:freeze
+execute if score chicken no_ai_sel matches 1 as @e[type=minecraft:chicken,name="No_AI",tag=!no_ai_frozen] run function no_ai:freeze
+execute if score cow no_ai_sel matches 1 as @e[type=minecraft:cow,name="No_AI",tag=!no_ai_frozen] run function no_ai:freeze
+execute if score happy_ghast no_ai_sel matches 1 as @e[type=minecraft:happy_ghast,name="No_AI",tag=!no_ai_frozen] run function no_ai:freeze
+execute if score horse no_ai_sel matches 1 as @e[type=minecraft:horse,name="No_AI",tag=!no_ai_frozen] run function no_ai:freeze
+execute if score pig no_ai_sel matches 1 as @e[type=minecraft:pig,name="No_AI",tag=!no_ai_frozen] run function no_ai:freeze
+execute if score rabbit no_ai_sel matches 1 as @e[type=minecraft:rabbit,name="No_AI",tag=!no_ai_frozen] run function no_ai:freeze
+execute if score sheep no_ai_sel matches 1 as @e[type=minecraft:sheep,name="No_AI",tag=!no_ai_frozen] run function no_ai:freeze
+execute if score villager no_ai_sel matches 1 as @e[type=minecraft:villager,name="No_AI",tag=!no_ai_frozen] run function no_ai:freeze

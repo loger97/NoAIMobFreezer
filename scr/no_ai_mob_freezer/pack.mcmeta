@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "description": "No_AI Mob Freezer - freezes mobs named 'No_AI'",
+    "min_format": [
+      107,
+      1
+    ],
+    "max_format": [
+      107,
+      1
+    ]
+  }
+}
